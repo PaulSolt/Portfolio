@@ -53,15 +53,20 @@ Brew Coffee is a pour-over coffee recipe app for Hario V60 and Chemex. It helps 
 
 ![Super Easy Timer](images/Super-Easy-Timer.png)
 
-### Artwork Evolution
-
-Artwork Evolution is a genetic wallpaper creator that uses mathematics and evolution to create abstract artwork. It was designed with Objective-C and C++ and frame based layout.
-
-![Artwork Evolution](images/Artwork-Evolution.png)
-
 ### Bomb Dodge
 
 [Bomb Dodge](https://itunes.apple.com/us/app/protect-the-bomb/id660318608?mt=8) is a multitouch avoidance game where you need to prevent a bomb from exploding. It was built using Cocos2D and Objective-C. I designed and led the project with an artist, composer, and developer.
 
 ![Bomb Dodge](images/Bomb-Dodge.png)
 
+Watch the [gameplay video](https://www.youtube.com/watch?v=MUhljrADpy8) with animations and sound effects on iPad.
+
+### Artwork Evolution
+
+Artwork Evolution is a genetic wallpaper creator that uses mathematics and evolution to create abstract artwork. It was designed with Objective-C and C++ and frame based layout.
+
+![Artwork Evolution](images/Artwork-Evolution.png)
+
+The app has been used to create aluminum prints and has been featured in art festivals and coffee shops around Rochester, NY.
+
+[Artwork Evolution at Joe Bean Coffee Roasters](images/Artwork-Evolution-Joe-Bean-Coffee-Roasters.jpg)
