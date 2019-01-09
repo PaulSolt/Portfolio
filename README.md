@@ -2,6 +2,8 @@
 
 Here is my teaching, writing, and app development portfolio.
 
+Email: PaulSolt@gmail.com
+
 ## Writing
 
 ### Super Easy Apps
