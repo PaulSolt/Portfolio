@@ -69,4 +69,4 @@ Artwork Evolution is a genetic wallpaper creator that uses mathematics and evolu
 
 The app has been used to create aluminum prints and has been featured in art festivals and coffee shops around Rochester, NY.
 
-[Artwork Evolution at Joe Bean Coffee Roasters](images/Artwork-Evolution-Joe-Bean-Coffee-Roasters.jpg)
+![Artwork Evolution at Joe Bean Coffee Roasters](images/Artwork-Evolution-Joe-Bean-Coffee-Roasters.jpg)
