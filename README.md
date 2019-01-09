@@ -1,6 +1,6 @@
 # Portfolio
 
-Teaching, writing, and app development portfolio
+Here is my teaching, writing, and app development portfolio.
 
 ## Writing
 
@@ -26,6 +26,13 @@ I have written four 2,000-word articles for InfoWorld on Swift related topics.
 ### YouTube
 
 I have over 14,000 subscribers on my iPhone app focused [YouTube channel](https://www.youtube.com/user/PaulSolt/featured?view_as=subscriber). I have hosted challenges, taught courses, and created focused tutorial videos based on common questions.
+
+### RIT
+
+At RIT I have taught iPhone app courses as an Adjunct Professor in the Interactive Games and Multimedia Department and the Computer Science Department.
+
+* Multi-platform Media App Dev Course IGME-340-01 (Spring 2018)
+* Mobile Computing 4005-785 (Fall 2012)
 
 ### iPhone Apps 101
 
