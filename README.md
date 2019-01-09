@@ -1,4 +1,4 @@
-# Portfolio
+# Paul Solt - Portfolio
 
 Here is my teaching, writing, and app development portfolio.
 
