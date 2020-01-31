@@ -12,7 +12,7 @@ I have published numerous iPhone app development articles on the [Super Easy App
 
 ### Auto Layout Book
 
-I am writing a book on using Auto Layout with Xcode Storyboards. I have written a 97,000-word manuscript and am editing it. My target launch date is in February 2019.
+I am writing a book on using Auto Layout with Xcode Storyboards. I have written a 97,000-word manuscript and am editing it. My target launch date is in 2020.
 
 ### InfoWorld
 
