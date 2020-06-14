@@ -1,6 +1,6 @@
 # Paul Solt - Portfolio
 
-I am a developer, writer, speaker, teacher, designer, and product person.
+I am a developer, writer, speaker, teacher, designer, artist, and product person.
 
 * I previously worked for Apple, Microsoft, Lambda School, and have completed numerous iOS/Mac software contracts.
 * I can break any software and find bugs you didn't know you had.
