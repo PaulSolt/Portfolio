@@ -24,7 +24,7 @@ I am a developer, writer, speaker, teacher, designer, artist, and product person
 
 Brew Coffee is a pour-over coffee recipe iOS app for Hario V60 and Chemex. It helps automate the manual process of brewing coffee and improves consistency between brews. I hired designers to help create the initial design that is easy to use. I use Brew Coffee daily, and you can [download the latest beta for Brew Coffee here](https://testflight.apple.com/join/yo3qrfji). It uses Swift with a mix of Storyboard and programmatic layouts.
 
-![Brew Coffee](images/Brew-Coffee.jpg)
+![Brew Coffee](images/Brew-Coffee-render-icon.jpg)
 
 ### Super Easy Timer
 
