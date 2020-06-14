@@ -22,13 +22,13 @@ I am a developer, writer, speaker, teacher, designer, artist, and product person
 
 ### Brew Coffee
 
-Brew Coffee is a pour-over coffee recipe app for Hario V60 and Chemex. It helps automate the manual process of brewing coffee and improves consistency between brews. I hired designers to help create the initial design that is easy to use. I use Brew Coffee daily, and you can [download the latest beta for Brew Coffee here](https://testflight.apple.com/join/yo3qrfji).
+Brew Coffee is a pour-over coffee recipe iOS app for Hario V60 and Chemex. It helps automate the manual process of brewing coffee and improves consistency between brews. I hired designers to help create the initial design that is easy to use. I use Brew Coffee daily, and you can [download the latest beta for Brew Coffee here](https://testflight.apple.com/join/yo3qrfji). It is written in Swift with a mix of Storyboard and programmatic layouts.
 
 ![Brew Coffee](images/Brew-Coffee.jpg)
 
 ### Super Easy Timer
 
-[Super Easy Timer](https://itunes.apple.com/us/app/super-easy-timer/id1353137878?ls=1&mt=12) is a productivity app that uses natural language processing to turn "20 minutes" into a countdown timer. It is quick to start and reset so that users can focus on their work. I created the visual design and managed the development with two software interns.
+[Super Easy Timer](https://itunes.apple.com/us/app/super-easy-timer/id1353137878?ls=1&mt=12) is a productivity Mac app that uses natural language processing to turn "20 minutes" into an active countdown timer. It is quick to start and reset so that users can focus on their tasks. I created the visual design, and managed the development with two autistic software interns.
 
 ![Super Easy Timer](images/Super-Easy-Timer.png)
 
