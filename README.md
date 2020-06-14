@@ -3,10 +3,10 @@
 I am a developer, writer, speaker, teacher, designer, artist, and product person.
 
 * I previously worked for Apple, Microsoft, Lambda School, and have completed numerous iOS/Mac software contracts.
-* I can break any software and find bugs you didn't know you had.
-* I am incredibly proficient with UIKit and Auto Layout—I can implement any design wireframe programmatically or using Storyboards.
-* I am proficient with SwiftUI and understand it's limitations (pre-WWDC 2020).
-* I can communicate and connect with people.
+* I can break any software—I can find (and fix) bugs you didn't know you had.
+* I understand usability and can run usability tests on your software to make it easier and less frustrating to use.
+* I am incredibly proficient with UIKit, SwiftUI, and Auto Layout—I can implement any design wireframe programmatically or using Storyboards.
+* I can quickly mockup, design, and implement new functionality to meet business goals.
 * I translate technical jargon into everyday language for non-technical people.
 * I can teach any technical topic and mentor your junior developers.
 
