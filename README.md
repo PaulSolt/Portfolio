@@ -53,7 +53,13 @@ I have written four 2,000-word articles for InfoWorld on Swift related topics.
 
 I was one of the [iOS Instructors at Lambda School](https://lambdaschool.com), where I taught iOS to complete beginners in an immersive 9am-5pm boot camp. Many of my students are now working for companies like MailChimp, Nike, and more. In addition to teaching, I designed new lessons, iterated on teaching content, and supported students until they became hired.
 
-Here is an [iOS homework project]() that I created for students.
+* Sample lectures on iOS and design topics:
+    * [Networking with Objective-C](https://www.youtube.com/watch?v=0KEQQ57-lew)
+    * [UI Design in Sketch (Part 1/2)](https://www.youtube.com/watch?v=mA8iDAVi9Kw)
+    * [Custom UI Design Prototyping in Xcode (Part 2/2)](https://youtu.be/p8yHke6_y6w)
+* Sample iOS projects:
+    * [Astronomy of the Day iOS App](https://github.com/PaulSolt/ios-module-project-apod)
+    * [Today's Weather](https://github.com/PaulSolt/ios-module-project-networking-in-objective-c)
 
 ### RIT
 
