@@ -13,6 +13,7 @@ I am a developer, writer, speaker, teacher, designer, artist, and product person
 ## Contact
 
 * Email: [PaulSolt@gmail.com](mailto:PaulSolt@gmail.com)
+* Text: 215-341-0407 (Text me your name, email address, and what you'd like to talk about. If you call, leave a voicemail, I'm always in Do Not Disturb mode)
 
 ## Speaking
 
