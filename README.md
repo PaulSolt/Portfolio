@@ -18,6 +18,10 @@ My experience spans tech companies like GoPro, Lambda School, Apple, and Microso
 * Email: [PaulSolt@gmail.com](mailto:PaulSolt@gmail.com)
 * [Recommendations](Recommendations.md)
 
+## Open Source Contributions
+
+* [Embedded Swift (Apple)](https://github.com/apple/swift-matter-examples/pull/24)
+
 ## Speaking
 
 * [try! Swift New York 2019: Super Easy Combine Workshop](https://www.tryswift.co/events/2019/nyc/#combinewrkshp) (30-40 people)
