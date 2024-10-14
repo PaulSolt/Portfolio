@@ -21,6 +21,7 @@ My experience spans tech companies like GoPro, Lambda School, Apple, and Microso
 ## Open Source Contributions
 
 * [Embedded Swift (Apple)](https://github.com/apple/swift-matter-examples/pull/24)
+* [Embedded Swift Install Instructions](https://github.com/apple/swift-matter-examples/pull/25)
 
 ## Speaking
 
