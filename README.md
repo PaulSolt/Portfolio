@@ -1,17 +1,21 @@
-# Paul Solt - Portfolio
+# Paul Solt
+Staff/Senior iOS Engineer • Product-minded • Camera + ML • UX/Accessibilty 
 
-I am an iOS developer, writer, speaker, and product designer.
+I build iOS/macOS apps that feel great on the first tap—fast. I’ve shipped consumer iOS features for GoPro (HERO9–HERO12) and lead iOS on a geospatial app used by U.S. government agencies. I also publish iOS/macOS apps and teach iOS/ML development on YouTube.
 
-I am looking for a new Staff/Senior iOS Developer role where I can improve the customer experience. I enjoy collaborating with Product and Design teams to create new iOS apps and enhance existing experiences. Since 2011, I have published six iOS/macOS apps on the App Store, and I have a popular iOS Development YouTube channel. I am comfortable speaking and presenting to senior leadership and giving technical talks to engineers.
+**Highlights**
+- 10+ years iOS (Swift, SwiftUI, UIKit)
+- 7 iOS/macOS apps shipped on the App Store
+- Shipped UX + performance fixes at scale (e.g., iPad landscape support for 2.8M users)
+- Strengths: camera/video pipelines, on-device ML, performance, accessibility, collaboration
+
+**What I do best**
+- Turn designs into polished UI (SwiftUI + UIKit, mixed codebases)
+- Make apps faster and more reliable (profiling, threading, memory, crash triage)
+- Work effectively with Product/Design/Research to ship high-impact features
+- Mentor engineers, document best practices, give technical talks, and unblock teams
 
 My experience spans tech companies like GoPro, Lambda School, Apple, and Microsoft, as well as iOS/Mac software contracts.
-
-* I understand usability and accessibility. I can make your apps more straightforward and less frustrating to use.
-* I break software – I can find and fix bugs you didn't know you had.
-* I am incredibly proficient with UIKit, SwiftUI, and Auto Layout — I can implement any design.
-* I can quickly mockup, design, and implement new functionality to meet business goals.
-* I can translate technical jargon into everyday language for non-technical people.
-* I can teach any technical topic and mentor your junior developers.
 
 ## Contact
 
@@ -58,18 +62,21 @@ My experience spans tech companies like GoPro, Lambda School, Apple, and Microso
 * Improved Wi-Fi and Bluetooth connectivity from Hero4 to Hero12 cameras.
 * Documented numerous bugs across GoPro cameras, website, and apps with detailed steps, screenshots, videos, and app logs.
 
-
 ## Apps
 
-### Dangerous Spider Identifier
+## Dangerous Spider Identifier (in progress)
+On-device, [real-time spider identification](https://youtube.com/shorts/_tRtNgjXApA) from live camera video and photos.
 
-A Machine Learning (ML) detector app that can do [real-time spider identification](https://youtube.com/shorts/_tRtNgjXApA?feature=share
-) from video and photos. It is a research heavy experience built on top of iNaturalist observations. I am using AI agents (Codex and Claude Code) to clean data sets, build custom tooling, and train multiple models to improve spider identification accuracy.
-* Built with Core ML, Create ML, Vision, SwiftUI, Swift, AVFoundation.
-* Created an image quality classifier (Good/Bad) for cleaning the blurry/grainy spider photos.
-* Created a spider detector that can distinguish spiders from every day photos.
-* Created custom macOS tools to assist with data cleanup and ML experiments.
-* Created custom camera controls for macro insect photography (focus peaking, auto-focus, and auto-capture modes).
+Built as a research-heavy Machine Learning (ML) + macro camera project using iNaturalist photos, with an emphasis on data quality and fast, real-time inference on iPhone.
+
+**What I built**
+* Data pipeline + macOS tooling to curate and clean training data (including an image quality classifier to filter blurry/grainy photos on 11,344 photos)
+* Multiple Core ML models (spider detector + supporting classifiers) with iterative training/evaluation.
+* A custom camera experience for macro photography (focus peaking, autofocus, auto-capture).
+* A SwiftUI app that runs Vision/Core ML inference on live video via AVFoundation.
+
+**Tech**
+Swift, SwiftUI, AVFoundation, Vision, Core ML, Create ML, macOS/iOS
 
 <img width="256" height="256" alt="SpiderFieldGuide-AppIcon@2x" src="https://github.com/user-attachments/assets/13c9cc63-8620-402c-baa8-30fe217c57a4" />
 
