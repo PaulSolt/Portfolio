@@ -67,7 +67,7 @@ A Machine Learning (ML) detector app that can do [real-time spider identificatio
 ) from video and photos. It is a research heavy experience built on top of iNaturalist observations. I am using AI agents (Codex and Claude Code) to clean data sets, build custom tooling, and train multiple models to improve spider identification accuracy.
 * Built with Core ML, Create ML, Vision, SwiftUI, Swift, AVFoundation.
 * Created an image quality classifier (Good/Bad) for cleaning the blurry/grainy spider photos.
-* Create a spider detector that can distinguish spiders from every day photos.
+* Created a spider detector that can distinguish spiders from every day photos.
 * Created custom macOS tools to assist with data cleanup and ML experiments.
 * Created custom camera controls for macro insect photography (focus peaking, auto-focus, and auto-capture modes).
 
