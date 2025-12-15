@@ -1,7 +1,7 @@
 # Paul Solt
 Staff/Senior iOS Engineer • Product-minded • Camera + ML • UX/Accessibilty 
 
-I build iOS/macOS apps that feel great on the first tap—fast. I’ve shipped consumer iOS features for GoPro (HERO9–HERO12) and lead iOS on a geospatial app used by U.S. government agencies. I also publish iOS/macOS apps and teach iOS/ML development on YouTube.
+I build iOS/macOS apps that feel great on the first tap. I have shipped consumer iOS features for GoPro (HERO9–HERO12) and lead iOS on a geospatial app used by U.S. government agencies. I also publish iOS/macOS apps and teach iOS/ML development on YouTube.
 
 **Highlights**
 - 10+ years iOS (Swift, SwiftUI, UIKit)
