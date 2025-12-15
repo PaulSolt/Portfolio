@@ -76,7 +76,7 @@ Built as a research-heavy Machine Learning (ML) + macro camera project using iNa
 * A SwiftUI app that runs Vision/Core ML inference on live video via AVFoundation.
 
 **Tech**
-Swift, SwiftUI, AVFoundation, Vision, Core ML, Create ML, macOS/iOS
+* Swift, SwiftUI, AVFoundation, Vision, Core ML, Create ML, macOS/iOS
 
 <img width="256" height="256" alt="SpiderFieldGuide-AppIcon@2x" src="https://github.com/user-attachments/assets/13c9cc63-8620-402c-baa8-30fe217c57a4" />
 
