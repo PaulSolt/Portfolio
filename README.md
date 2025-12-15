@@ -29,7 +29,12 @@ My experience spans tech companies like GoPro, Lambda School, Apple, and Microso
 
 ## Companies
 
-### GoPro (Staff Software Engineer - iOS)
+### Omni Federal LLC, Senior Mobile Engineer (2025 - Present)
+* Lead iOS engineer on a geospatial application used by U.S. government agencies in partnership with the National Geospatial-Intelligence Agency (NGA).
+* Partner directly with stakeholders to prioritize features, address issues, and guide product and technical direction across iOS, Android, and Web.
+* Improve team effectiveness by identifying problems, fixing performance bottlenecks, and streamlining development workflows.
+
+### GoPro, Staff Software Engineer - iOS (2021 - 2024)
 
 **GoPro Accomplishments**
 
@@ -55,6 +60,18 @@ My experience spans tech companies like GoPro, Lambda School, Apple, and Microso
 
 
 ## Apps
+
+### Dangerous Spider Identifier
+
+A Machine Learning (ML) detector app that can do [real-time spider identification](https://youtube.com/shorts/_tRtNgjXApA?feature=share
+) from video and photos. It is a research heavy experience built on top of iNaturalist observations. I am using AI agents (Codex and Claude Code) to clean data sets, build custom tooling, and train multiple models to improve spider identification accuracy.
+* Built with Core ML, Create ML, Vision, SwiftUI, Swift, AVFoundation.
+* Created an image quality classifier (Good/Bad) for cleaning the blurry/grainy spider photos.
+* Create a spider detector that can distinguish spiders from every day photos.
+* Created custom macOS tools to assist with data cleanup and ML experiments.
+* Created custom camera controls for macro insect photography (focus peaking, auto-focus, and auto-capture modes).
+
+<img width="256" height="256" alt="SpiderFieldGuide-AppIcon@2x" src="https://github.com/user-attachments/assets/13c9cc63-8620-402c-baa8-30fe217c57a4" />
 
 ### Brew Coffee
 
@@ -107,7 +124,7 @@ At RIT, I taught iPhone app courses as an Adjunct Professor in the [Interactive 
 
 ### YouTube
 
-I have over 16,502 subscribers on my iPhone app focused [YouTube channel](https://www.youtube.com/user/PaulSolt/featured?view_as=subscriber). I have hosted challenges, taught courses, and created tutorials on common iOS questions.
+I have over 19,825 subscribers on my iPhone app focused [YouTube channel](https://www.youtube.com/user/PaulSolt/featured?view_as=subscriber). I have hosted challenges, taught courses, and created tutorials on common iOS questions.
 
 ### iPhone Apps 101
 
