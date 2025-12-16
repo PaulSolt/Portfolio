@@ -7,7 +7,7 @@ I build iOS/macOS apps that feel great on the first tap. I have shipped consumer
 - 10+ years iOS (Swift, SwiftUI, UIKit)
 - 7 iOS/macOS apps shipped on the App Store
 - Shipped UX + performance fixes at scale (e.g., iPad landscape support for 2.8M users)
-- Strengths: camera/video pipelines, on-device ML, performance, accessibility, collaboration
+- Strengths: graphics/video pipelines, performance, accessibility, collaboration
 
 **What I do best**
 - Turn designs into polished UI (SwiftUI + UIKit, mixed codebases)
@@ -72,8 +72,14 @@ Built as a research-heavy Machine Learning (ML) + macro camera project using iNa
 **What I built**
 * Data pipeline + macOS tooling to curate and clean training data (including an image quality classifier to filter blurry/grainy photos on 11,344 photos)
 * Multiple Core ML models (spider detector + supporting classifiers) with iterative training/evaluation.
-* A custom camera experience for macro photography (focus peaking, autofocus, auto-capture).
+* Custom camera experience for macro photography (focus peaking, autofocus, auto-capture).
 * A SwiftUI app that runs Vision/Core ML inference on live video via AVFoundation.
+
+**What I built**
+* Custom macro camera experience (focus peaking, autofocus, auto-capture) fast moving spiders.
+* Data pipeline + macOS tooling to curate/clean training data (including an image-quality classifier to filter blurry/grainy photos).
+* Multiple Core ML models (spider detector + classifier) with iterative training/evaluation
+* SwiftUI app that runs Vision/Core ML inference on live video via AVFoundation
 
 **Tech**
 * Swift, SwiftUI, AVFoundation, Vision, Core ML, Create ML, macOS/iOS
